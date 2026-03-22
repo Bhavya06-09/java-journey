@@ -11,3 +11,15 @@ Daily Java programming exercises and challenges.
 - Inverted right angle pattern (do-while loop)
 - Age limit check (if statement)
 - Even/odd check (if-else)
+
+## Day 3
+- Switch statement implementation
+- Break and continue keywords
+- Else-if ladder logic
+- For-each loop syntax
+
+## Day 4
+- Method creation and calling
+- Functions with parameters
+- Functions with return values
+- Practice programs: Add, Multiply, Greet methods
