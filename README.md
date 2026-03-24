@@ -22,3 +22,15 @@ Daily Java programming exercises and challenges.
 - Encapsulation (private fields/getters)
 - Inheritance (extends keyword)
 - Student, BankAccount, Animal-Dog programs
+
+## Day 6
+- Simple Interest calculator
+- Swap two numbers (temp variable)
+- Factorial using for loop
+- Reverse a number (modulo)
+- Palindrome number check
+- Prime number verification
+- Armstrong number program
+- Fibonacci series generation
+- Largest of three numbers comparison
+
