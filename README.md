@@ -25,7 +25,7 @@ Daily Java programming exercises and challenges.
 
 ## Day 6
 - Simple Interest calculator
-- Swap two numbers (temp variable)
+- Swap two numbers 
 - Factorial using for loop
 - Reverse a number (modulo)
 - Palindrome number check
@@ -33,4 +33,5 @@ Daily Java programming exercises and challenges.
 - Armstrong number program
 - Fibonacci series generation
 - Largest of three numbers comparison
+- Basic Calculator
 
