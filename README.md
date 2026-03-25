@@ -35,3 +35,10 @@ Daily Java programming exercises and challenges.
 - Largest of three numbers comparison
 - Basic Calculator
 
+## Day 7
+- Advanced Calculator project upgrade
+- OOP class with 6 math methods
+- do-while loop for continuous operation
+- Exception handling (division by zero, invalid input)
+- Enhanced user interface with menu
+
