@@ -42,3 +42,11 @@ Daily Java programming exercises and challenges.
 - Exception handling (division by zero, invalid input)
 - Enhanced user interface with menu
 
+## Day 8
+- Inheritance (Vehicle → Car class)
+- Method overriding (Shape hierarchy)
+- Method overloading (MathOps multiply variants)
+- Runtime polymorphism (Shape references)
+- Compile-time polymorphism examples
+
+
