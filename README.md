@@ -49,4 +49,11 @@ Daily Java programming exercises and challenges.
 - Runtime polymorphism (Shape references)
 - Compile-time polymorphism examples
 
+## Day 9
+- Method overloading practice (compile-time polymorphism)
+- Method overriding practice (runtime polymorphism) 
+- Context-based method resolution
+- Multiple program variations testing flexibility
+- Real-world polymorphism application understanding
+
 
