@@ -56,4 +56,9 @@ Daily Java programming exercises and challenges.
 - Multiple program variations testing flexibility
 - Real-world polymorphism application understanding
 
+## Day 10
+- Employee/Developer: static company + super() + method overriding
+- Person/Student: super constructor & super method calls
+- Constructor chaining using this()
+- Static college variable shared across Student objects
 
