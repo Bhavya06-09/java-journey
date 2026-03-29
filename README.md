@@ -62,3 +62,7 @@ Daily Java programming exercises and challenges.
 - Constructor chaining using this()
 - Static college variable shared across Student objects
 
+## Day 11 - Basic OOP Diary
+├── DiaryEntry.java (parent class + constructor)
+├── SadPoem.java (inheritance + override)
+└── DiaryApp.java (user input + polymorphism)
