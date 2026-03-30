@@ -66,3 +66,15 @@ Daily Java programming exercises and challenges.
 ├── DiaryEntry.java (parent class + constructor)
 ├── SadPoem.java (inheritance + override)
 └── DiaryApp.java (user input + polymorphism)
+
+## Day 12- MusicPlayer - Simple Interface Demo
+
+**Files:**
+- Playable.java (interface)
+- MP3Player.java (implementation)
+- MusicApp.java (demo)
+**Compile:** `javac *.java`  
+**Run:** `java MusicApp`
+**Output:**
+Playing MP3 file
+MP3 stopped
