@@ -68,7 +68,6 @@ Daily Java programming exercises and challenges.
 └── DiaryApp.java (user input + polymorphism)
 
 ## Day 12- MusicPlayer - Simple Interface Demo
-
 **Files:**
 - Playable.java (interface)
 - MP3Player.java (implementation)
@@ -78,3 +77,16 @@ Daily Java programming exercises and challenges.
 **Output:**
 Playing MP3 file
 MP3 stopped
+
+
+## Day 13- PoetTypewriter - Multithreaded Poetry Animation
+**Live typewriter effect** with parallel cursor animation.
+## Code Structure
+3 Classes:
+├── Typewriter (extends Thread) - 100ms per character
+├── CursorBlinker (extends Thread) - 300ms spaces
+└── PoetTypewriter (main) - launches both threads
+## How It Works
+- **Typewriter thread**: Prints poem char-by-char (100ms delay)
+- **Cursor thread**: Prints spaces simultaneously (300ms delay)  
+- **Interleaved output** creates live typing effect
