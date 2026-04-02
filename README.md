@@ -90,3 +90,31 @@ MP3 stopped
 - **Typewriter thread**: Prints poem char-by-char (100ms delay)
 - **Cursor thread**: Prints spaces simultaneously (300ms delay)  
 - **Interleaved output** creates live typing effect
+
+# Day 14- Java Types of Inheritance 
+## 5 Working Programs
+**1. Single Inheritance**
+Poem → Haiku
+javac SingleInheritanceDemo.java
+java SingleInheritanceDemo
+**2. Multilevel Inheritance**  
+Writer → Poet → GhazalPoet
+javac MultilevelInheritanceDemo.java
+java MultilevelInheritanceDemo
+**3. Hierarchical Inheritance**
+Instrument ← Guitar, Drum
+javac HierarchicalInheritanceDemo.java
+java HierarchicalInheritanceDemo
+**4. Multiple Inheritance** (Interface)
+Singer + WriterSkill → Artist
+javac MultipleInheritanceDemo.java
+java MultipleInheritanceDemo
+**5. Hybrid Inheritance** (Class + Interface)
+Person → CreativePerson + Dancer + Painter
+javac HybridInheritanceDemo.java
+java HybridInheritanceDemo
+## All programs tested & runnable
+- Each has proper main() method
+- Single public class per file  
+- Java-compatible multiple/hybrid via interfaces
+
