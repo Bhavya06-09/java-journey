@@ -144,3 +144,19 @@ java.io.*
 javac BankAccountIO.java
 java BankAccountIO
 **Creates account.txt** - data survives program restart!
+
+
+# Day 16 - Library Management System
+Interactive library with complete exception handling.
+## Exception Types
+- BookNotFoundException (custom)
+- NumberFormatException (invalid ID input)
+- Array bounds validation
+- Input sanitization
+## Features
+- Issue/return books
+- Real-time inventory
+- Error-safe user input
+## Run
+javac LibraryDemo.java
+java LibraryDemo
